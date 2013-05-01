@@ -265,7 +265,7 @@ break;//Error State
 case 99: return 0;
 }
 i++;}
-printf("\n\nEnd of program");
+printf("\n\nEnd of program\n");
 //END:
 return 0;}
 
